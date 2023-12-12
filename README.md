@@ -1,49 +1,84 @@
-<h2 align="left">Hi 👋! My name is ... and I'm a ..., from ....</h2>
+# Welcome!
 
-###
+ 
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=maurodesouza&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=maurodesouza&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
+## Hello Word, I'm Henrique Nahim! <img src=https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif width="30">
 
-###
+ 
 
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
+:computer: I'm student of Computer Science!
 
-###
+:house_with_garden: I’m from Brazil.
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
-</div>
+:books: I’m currently learning everything was possible.
 
-###
+:outbox_tray: 2024 Goals: find a new internship, go up on University and lerny saxophone.
 
-<div align="left">
-  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
-  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-  <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitch logo"  />
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-</div>
+ 
 
-###
+## About me
 
-<br clear="both">
+![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/hsnahim/) ![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/henrique-nahim-3a71a8267/)
 
-<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
+- I am a computer science student. I enjoy writing poems and reflective texts about my life and the things that happen to me. I am a very reflective person and I like to be in the presence of people.
 
-###
+- Thanks for visiting.
+
+- Enjoy it!! o/
+
+----------------------------------------------------------------------------------
+
+
+💾Aqui está alguns itens que você pode adicionar ao seu arquivo README para torná-lo mais atraente:
+
+Emblemas.
+Para obter emblemas acesse o link abaixo:
+
+https://github.com/hsnahim/Badges4-README.md-Profile
+
+-  Agora escolha a imagem qual você gostaria de usar e copie a sua URl.
+
+-  Assim você deve criar uma tag por exemplo: img <img src="BadgeURLHere"
+
+*OBS Já deixei uma pronta abaixo.
+
+<code><img height= "20"src= "https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"></code>
+
+-  Agora basta copiar para seu README e a mágica acontece.
+
+Blocos
+-  Para adicionar blocos, temos varias opções no link abaixo:
+
+https://github.com/anuraghazra/github-readme-stats#themes
+
+- Após escolher seu bloco copie a URL e cole em seu README:
+
+[![hsnahim GitHub stats](https://github-readme-stats.vercel.app/api?username=hsnahim&show_icons=true&theme=merko))](https://github.com/hsnahim/github-readme-stats)
+
+- Mas não se esqueça que você deve editar com suas informações por exemplo:
+
+GIF
+- Encontre o gif que mais combina com você nesse link:
+
+https://github.com/TheDudeThatCode/TheDudeThatCode
+
+*OBS deixo abaixo um exemplo para ser usado:
+
+
+
+Imagem
+1. Você pode usar qualquer imagem que aceite markdown no Github. Se quiser pegar a imagem de algum repositório, pode usar o seguinte formato:
+
+<img align="right" width="400" height="400" src="https://www.xainesworld.com/wp-content/uploads/2020/02/WATER_THUMBS_UP.png">
+
+2. Para fazer o upload de imagens basta você clicar na imagem que esta em seu computador e arrastar a imagem para o seu README.
+
+
+Emojis
+1. Para saber quais são os Emojis disponíveis, acesse:
+
+https://github.com/scotch-io/All-Github-Emoji-Icons
+
+2. Agora basta copiar seu código e colar no README
+
+*OBS não se esqueça dos dois pontos : (:shipit:)
