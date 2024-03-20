@@ -21,6 +21,13 @@
 
 - Enjoy it!! o/
 
+### Badge and certificates
+
+<a href="https://badges.openbadges.me/api/badgeitem/3dfeb3eb-6e1c-4f87-9cf8-37687022e632/metadata?host=app.openbadges.me">
+    <img src="./WebTech+Membro+-+Nível+1.png" alt="Badge do WebTec" style="width:150px">
+</a>
+
+
 ### Languages and frameworks ​​I know <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif?raw=true" style="width:30px"/>
 <!-- Link com os badges para inserir https://devicon.dev/ -->
 
