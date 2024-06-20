@@ -24,7 +24,10 @@
 ### Badge and certificates
 
 <a href="https://badges.openbadges.me/api/badgeitem/3dfeb3eb-6e1c-4f87-9cf8-37687022e632/metadata?host=app.openbadges.me">
-    <img src="./WebTech+Membro+-+Nível+1.png" alt="Badge do WebTec" style="width:150px">
+    <img src="./WebTech+Membro+-+Nível+1.png" alt="Badge do WebTec nivel 1" style="width:150px">
+</a>
+<a href="https://badges.openbadges.me/api/badgeitem/3dfeb3eb-6e1c-4f87-9cf8-37687022e632/metadata?host=app.openbadges.me">
+    <img src="./WebTech+Membro+-+Nível+2.png" alt="Badge do WebTec nivel 2" style="width:150px">
 </a>
 
 
