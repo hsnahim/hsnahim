@@ -17,6 +17,8 @@
 
 - I am a computer science student. I enjoy writing poems and reflective texts about my life and the things that happen to me. I am a very reflective person and I like to be in the presence of people.
 
+- Give me a function and i will be functional
+
 - Thanks for visiting.
 
 - Enjoy it!! o/
