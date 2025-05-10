@@ -10,6 +10,8 @@
 
 :outbox_tray: 2025 Goals: find a new internship, go up on University and learn saxophone.
 
+:ladder: Give me a function and i will be functional
+
 ## About me <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Mario_Hello_Big.gif?raw=true" style="width:30px"/>
 
 
