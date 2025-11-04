@@ -25,6 +25,15 @@
 
 - Enjoy it!! o/
 
+### My most valuable projects
+
+* [Hackathon Ruptura 2025](https://github.com/hsnahim/ruptura2025) - During this hackathon, we developed a low-code platform for AI model training, utilizing decision tree and Naive Bayes algorithms.
+
+* [Workshop RAG IA](https://github.com/webtech-network/lab-assistentes) - A workshop focused on using RAG with documents to create AI agents
+
+* [Workshop web automation using pupeteer](https://github.com/webtech-network/lab-puppeteer) - It was a workshop about web automation using the Node.js library, Puppeteer
+
+
 ### Badge and certificates
 
 <a href="https://badges.openbadges.me/api/badgeitem/3dfeb3eb-6e1c-4f87-9cf8-37687022e632/metadata?host=app.openbadges.me">
